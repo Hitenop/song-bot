@@ -13,8 +13,8 @@ ABS="Developer"
 APPER="Hiten_op"
 OWNER="Owner"
 GITCLONE="https://t.me/request_moviesorseries"
-B2="telegram.dog/shamilhabeeb"
-BUTTON1="🔰 My channel 🔰"
+B2="telegram.dog/hiten_op"
+BUTTON1="🔰 My songs group 🔰"
 
 def time_to_seconds(time):
     stringt = str(time)
